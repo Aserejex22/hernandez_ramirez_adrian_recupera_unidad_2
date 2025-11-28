@@ -1,0 +1,72 @@
+[
+  {
+    "nombre": "Girasol",
+    "nombre_cientifico": "Helianthus annuus",
+    "descripcion": "Planta anual con flores grandes y amarillas.",
+    "imagen": "https://via.placeholder.com/150/FFFF00/000000?text=Girasol",
+    "cuidados": "Necesita mucha luz solar y riego regular."
+  },
+  {
+    "nombre": "Rosa",
+    "nombre_cientifico": "Rosa spp.",
+    "descripcion": "Arbusto con flores de variados colores y fragancias.",
+    "imagen": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Rosa",
+    "cuidados": "Necesita riego regular y poda ocasional."
+  },
+  {
+    "nombre": "Margarita",
+    "nombre_cientifico": "Bellis perennis",
+    "descripcion": "Planta herbácea con flores blancas y amarillas.",
+    "imagen": "https://via.placeholder.com/150/FFFFFF/000000?text=Margarita",
+    "cuidados": "Necesita luz solar y riego moderado."
+  },
+  {
+    "nombre": "Lavanda",
+    "nombre_cientifico": "Lavandula",
+    "descripcion": "Planta aromática con flores moradas.",
+    "imagen": "https://via.placeholder.com/150/800080/FFFFFF?text=Lavanda",
+    "cuidados": "Necesita luz solar y riego moderado. Prefiere suelos bien drenados."
+  },
+  {
+    "nombre": "Orquídea",
+    "nombre_cientifico": "Orchidaceae",
+    "descripcion": "Planta con flores exóticas y variadas.",
+    "imagen": "https://via.placeholder.com/150/FF69B4/FFFFFF?text=Orquídea",
+    "cuidados": "Necesita luz indirecta y riego específico según la especie."
+  },
+  {
+    "nombre": "Cactus",
+    "nombre_cientifico": "Cactaceae",
+    "descripcion": "Planta suculenta adaptada a climas áridos.",
+    "imagen": "https://via.placeholder.com/150/008000/FFFFFF?text=Cactus",
+    "cuidados": "Necesita poca agua y mucha luz solar."
+  },
+  {
+    "nombre": "Suculenta",
+    "nombre_cientifico": "Succulentus",
+    "descripcion": "Planta que almacena agua en sus hojas y tallos.",
+    "imagen": "https://via.placeholder.com/150/00FF00/000000?text=Suculenta",
+    "cuidados": "Necesita poca agua y luz indirecta brillante."
+  },
+  {
+    "nombre": "Tulipanes",
+    "nombre_cientifico": "Tulipa",
+    "descripcion": "Planta bulbosa con flores en forma de copa.",
+    "imagen": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Tulipanes",
+    "cuidados": "Necesitan un período de frío para florecer en primavera."
+  },
+  {
+    "nombre": "Lirios",
+    "nombre_cientifico": "Lilium",
+    "descripcion": "Planta bulbosa con flores grandes y vistosas.",
+    "imagen": "https://via.placeholder.com/150/FFA500/000000?text=Lirios",
+    "cuidados": "Necesitan luz solar y riego regular durante la temporada de crecimiento."
+  },
+  {
+    "nombre": "Claveles",
+    "nombre_cientifico": "Dianthus caryophyllus",
+    "descripcion": "Planta con flores de colores brillantes y fragancia intensa.",
+    "imagen": "https://via.placeholder.com/150/FF69B4/FFFFFF?text=Claveles",
+    "cuidados": "Necesitan luz solar y riego regular."
+  }
+]
