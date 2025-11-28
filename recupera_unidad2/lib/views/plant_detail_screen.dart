@@ -63,6 +63,7 @@ class PlantDetailScreen extends StatelessWidget {
                     plant.nombre,
                     style: Theme.of(context).textTheme.headlineMedium?.copyWith(
                           fontWeight: FontWeight.bold,
+                          color: Theme.of(context).colorScheme.onSurface,
                         ),
                   ),
                   const SizedBox(height: 8),
@@ -123,6 +124,7 @@ class PlantDetailScreen extends StatelessWidget {
               title,
               style: Theme.of(context).textTheme.titleLarge?.copyWith(
                     fontWeight: FontWeight.bold,
+                    color: Theme.of(context).colorScheme.onSurface,
                   ),
             ),
           ],
@@ -133,7 +135,9 @@ class PlantDetailScreen extends StatelessWidget {
             padding: const EdgeInsets.all(16.0),
             child: Text(
               content,
-              style: Theme.of(context).textTheme.bodyLarge,
+              style: Theme.of(context).textTheme.bodyLarge?.copyWith(
+                color: Theme.of(context).colorScheme.onSurface,
+              ),
             ),
           ),
         ),

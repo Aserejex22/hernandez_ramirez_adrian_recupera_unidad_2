@@ -136,12 +136,14 @@ class _PlantListScreenState extends State<PlantListScreen> {
                     plant.nombre,
                     style: Theme.of(context).textTheme.titleMedium?.copyWith(
                           fontWeight: FontWeight.bold,
+                          color: Theme.of(context).colorScheme.onSurface,
                         ),
                   ),
                   subtitle: Text(
                     plant.nombreCientifico,
                     style: Theme.of(context).textTheme.bodySmall?.copyWith(
                           fontStyle: FontStyle.italic,
+                          color: Theme.of(context).colorScheme.onSurface.withOpacity(0.7),
                         ),
                   ),
                   trailing: const Icon(Icons.arrow_forward_ios, size: 16),
